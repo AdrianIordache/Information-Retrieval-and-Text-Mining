@@ -1,0 +1,3 @@
+[submodule "Text-Mining-Project"]
+	path = Text-Mining-Project
+	url = https://github.com/AdrianIordache/Music-Genre-Classification-based-on-Lyrics
