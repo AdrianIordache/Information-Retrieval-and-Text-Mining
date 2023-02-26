@@ -1,3 +1,6 @@
 [submodule "Text-Mining-Project"]
 	path = Text-Mining-Project
 	url = https://github.com/AdrianIordache/Music-Genre-Classification-based-on-Lyrics
+[submodule "Retrieval-System-Project"]
+	path = Retrieval-System-Project
+	url = https://github.com/AdrianIordache/Retrieval-System-Romanian-Language
